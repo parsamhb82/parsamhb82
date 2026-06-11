@@ -8,10 +8,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&center=true&vCenter=true&width=700&lines=AI+Researcher;LLM+Engineer;Backend+Developer;Building+Intelligent+Systems;Exploring+RAG+and+AI+Agents" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=parsamhb82&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
 ---
 
 ## 🧠 About Me
@@ -97,9 +93,11 @@ Rapid prototyping and software development for competitive problem solving.
 * LoRA
 * QLoRA
 * DPO
+* RLHF
 * RAG
 * PEFT
 * Transformers
+* Prompt Engineering
 
 ### Backend Development
 
